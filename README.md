@@ -13,8 +13,9 @@ pertama saya buat fungsi dengan def (definisi), dan buat parameter jenis kendara
 <img width="200" height="128" alt="image" src="https://github.com/user-attachments/assets/b35f842d-0950-436e-873c-0d2f7e81bc69" />
 
 
-kedua, saya buat variabel beserta dengan nilainya sebagai argumen yang dipanggil nantinya, yaitu buat jenis kendaraan, jam masuk, jam keluar, dan durasi dengan proses pengurangan di dalamnya. Lalu di akhir kita panggil deh fungsinya. baru bikin kayak bentukan struknya dengan berbagai print, oiya didalamnya juga ada elemen f string supaya kita bisa manggil berbagai nilai dengan menggunakan kurung kurawal.
+kedua, saya buat variabel beserta dengan inputan nilainya, dan untuk durasi parkir saya gunakan proses pengurangan didalamnya. Lalu di akhir kita panggil deh fungsinya. baru bikin kayak bentukan struknya dengan berbagai print, oiya didalamnya juga ada elemen f string supaya kita bisa manggil berbagai nilai dengan menggunakan kurung kurawal.
 
-<img width="215" height="146" alt="image" src="https://github.com/user-attachments/assets/782088a7-a2dd-42ed-b236-03e5f22c56f7" />
+<img width="241" height="155" alt="image" src="https://github.com/user-attachments/assets/537cf189-7f86-4113-815c-1d05bc57d811" />
 
-OUTPUT:<img width="307" height="135" alt="image" src="https://github.com/user-attachments/assets/30bd09a1-5874-4dbb-9614-723892eb5bed" />
+OUTPUT: <img width="437" height="236" alt="image" src="https://github.com/user-attachments/assets/b75f58d4-95e5-43cb-91dc-1c512233b8f3" />
+
